@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kzhxxn
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning html,css,js,React
 - 🏃🏻‍♂️ Level up than yesterday's me!
 
 <!---
